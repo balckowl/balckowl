@@ -5,3 +5,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balckowl&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=balckowl&theme=dracule) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=balckowl&theme=dracule)
