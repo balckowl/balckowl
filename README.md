@@ -1,3 +1,7 @@
+# badges
+
+![my_atcoder_rating](https://badgen.org/img/atcoder/blackowl/rating/algorithm?style=flat)
+
 # statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
