@@ -14,4 +14,4 @@
 
 # Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,vue,svelte,firebase,vercel)](https://skillicons.dev)
