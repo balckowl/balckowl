@@ -1,7 +1,5 @@
 # badges
 
-![blackowl](https://react-svg-demo.vercel.app?name=blackowl&color=white)
-
 [![blackowl](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fblackowl)](https://atcoder.jp/users/blackowl) [![Articles](https://badgen.org/img/zenn/y_ta/articles?style=plastic)](https://zenn.dev/y_ta)
 
 # statistics
