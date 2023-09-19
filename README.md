@@ -14,4 +14,4 @@
 
 # Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mui,framermotion,javascript,typescript,react,vue,svelte,prisma,supabase,firebase,postman,jest,vercel&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,mui,javascript,typescript,react,vue,svelte,prisma,supabase,firebase,postman,jest,vercel&perline=7)](https://skillicons.dev)
