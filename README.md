@@ -14,4 +14,4 @@
 
 # Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,mui,emotion,javascript,express,typescript,react,nextjs,vue,svelte,vite,prisma,supabase,firebase,mongodb,graphql,postman,jest,vercel&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,mui,emotion,javascript,express,typescript,react,nextjs,vue,nuxtjs,svelte,vite,prisma,supabase,firebase,mongodb,graphql,postman,jest,vercel&perline=8)](https://skillicons.dev)
