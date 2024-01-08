@@ -7,6 +7,9 @@
 ☝️Webフロントエンド入門<br />
 https://zenn.dev/y_ta/articles/e58576b3288500
 
+☝️おみくじdiscordbot<br />
+https://zenn.dev/y_ta/articles/195f4992f04c65
+
 # statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=balckowl&show_icons=true&theme=transparent)
