@@ -10,6 +10,11 @@ https://zenn.dev/y_ta/articles/e58576b3288500
 ☝️おみくじdiscordbot<br />
 https://zenn.dev/y_ta/articles/195f4992f04c65
 
+# books
+
+☝0から始めるFirebase入門
+https://zenn.dev/y_ta/books/d007090d6478dc
+
 # statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=balckowl&show_icons=true&theme=transparent)
