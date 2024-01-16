@@ -27,4 +27,4 @@ https://zenn.dev/y_ta/articles/195f4992f04c65
 
 # Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwindcss,emotion,javascript,express,go,typescript,react,nextjs,vite,prisma,supabase,firebase,mongodb,postman,vercel&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwindcss,emotion,javascript,express,go,typescript,react,nextjs,vite,prisma,supabase,firebase,mongodb,postgresql,postman,vercel&perline=8)](https://skillicons.dev)
