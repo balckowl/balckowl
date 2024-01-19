@@ -13,8 +13,8 @@ https://zenn.dev/y_ta/articles/bc9da90da41dc3
 ☑️Gemini✨ × LangChain入門🦜<br />
 https://zenn.dev/y_ta/articles/f17bbfe98ce462
 
-☑️React × Gemini × LangChainで画像読み取りくんを作る<br />
-https://zenn.dev/y_ta/articles/153c4804ee8ef2😤
+☑️React × Gemini × LangChainで画像読み取りくんを作る😤<br />
+https://zenn.dev/y_ta/articles/153c4804ee8ef2
 
 ☑️おみくじdiscordbot🤖<br />
 https://zenn.dev/y_ta/articles/195f4992f04c65
