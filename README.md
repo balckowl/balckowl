@@ -4,7 +4,7 @@
 
 # articles
 
-☑️💻Webフロントエンド入門<br />
+☑️Webフロントエンド入門✍️<br />
 https://zenn.dev/y_ta/articles/e58576b3288500
 
 ☑️✨Gemini × 🦜LangChain入門<br />
