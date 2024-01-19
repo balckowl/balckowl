@@ -31,4 +31,4 @@
 
 # Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwindcss,emotion,javascript,express,go,typescript,react,nextjs,vite,prisma,supabase,firebase,mongodb,postgresql,postman,vercel, trpc, graphql&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwindcss,emotion,javascript,express,go,typescript,react,nextjs,vite,prisma,supabase,firebase,mongodb,postgresql,postman,vercel,trpc,graphql&perline=8)](https://skillicons.dev)
