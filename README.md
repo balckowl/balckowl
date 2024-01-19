@@ -4,11 +4,14 @@
 
 # articles
 
-☝️💻Webフロントエンド入門<br />
+☑️💻Webフロントエンド入門<br />
 https://zenn.dev/y_ta/articles/e58576b3288500
 
-☝️✨Gemini × 🦜LangChain入門<br />
+☑️✨Gemini × 🦜LangChain入門<br />
 https://zenn.dev/y_ta/articles/f17bbfe98ce462
+
+☑️React × Gemini × LangChainで画像読み取りくんを作る<br />
+https://zenn.dev/y_ta/articles/153c4804ee8ef2
 
 ☝️🤖おみくじdiscordbot<br />
 https://zenn.dev/y_ta/articles/195f4992f04c65
