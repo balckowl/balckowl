@@ -6,17 +6,13 @@
 
 ☑️[Webフロントエンド入門✍️](https://zenn.dev/y_ta/articles/e58576b3288500)<br />
 
-☑️Reactを学んでいて疑問に思うこと🤔<br />
-https://zenn.dev/y_ta/articles/bc9da90da41dc3
+☑️[Reactを学んでいて疑問に思うこと🤔](https://zenn.dev/y_ta/articles/bc9da90da41dc3)<br />
 
-☑️Gemini✨ × LangChain入門🦜<br />
-https://zenn.dev/y_ta/articles/f17bbfe98ce462
+☑️[Gemini✨ × LangChain入門🦜](https://zenn.dev/y_ta/articles/f17bbfe98ce462)<br />
 
-☑️React × Gemini × LangChainで画像読み取りくんを作る😤<br />
-https://zenn.dev/y_ta/articles/153c4804ee8ef2
+☑️[React × Gemini × LangChainで画像読み取りくんを作る😤](https://zenn.dev/y_ta/articles/153c4804ee8ef2)<br />
 
-☑️おみくじdiscordbot🤖<br />
-https://zenn.dev/y_ta/articles/195f4992f04c65
+☑️[おみくじdiscordbot🤖](https://zenn.dev/y_ta/articles/195f4992f04c65)<br />
 
 # books
 
