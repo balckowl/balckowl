@@ -4,8 +4,7 @@
 
 # articles
 
-☑️Webフロントエンド入門✍️<br />
-https://zenn.dev/y_ta/articles/e58576b3288500
+☑️[Webフロントエンド入門✍️](https://zenn.dev/y_ta/articles/e58576b3288500)<br />
 
 ☑️Reactを学んでいて疑問に思うこと🤔<br />
 https://zenn.dev/y_ta/articles/bc9da90da41dc3
