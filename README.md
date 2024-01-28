@@ -20,7 +20,7 @@
 [![](https://res.cloudinary.com/zenn/image/upload/s--v8gGXWi---/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9iYWJlY2FjMTIyLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg)](https://zenn.dev/y_ta/books/d007090d6478dc)
 
 ☑️今日から始めるSvelte入門🍊<br />
-[![](https://res.cloudinary.com/zenn/image/upload/s--CypFCStl--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci82OGM2OWIxYTllLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg)]
+[![](https://res.cloudinary.com/zenn/image/upload/s--CypFCStl--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci82OGM2OWIxYTllLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg)](https://zenn.dev/y_ta/books/a6ecee66233b20)
 
 # statistics
 
