@@ -25,7 +25,7 @@
 
 # statistics
 
-![](https://karakuri-web.vercel.app)
+![hello](https://karakuri-web.vercel.app)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=balckowl&show_icons=true&theme=transparent)
 
