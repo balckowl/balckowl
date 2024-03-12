@@ -25,6 +25,8 @@
 
 # statistics
 
+![](https://karakuri-web.vercel.app)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=balckowl&show_icons=true&theme=transparent)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=balckowl&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
