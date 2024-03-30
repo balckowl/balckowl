@@ -14,7 +14,7 @@ Nice to meet you.
 - [Zenn](https://zenn.dev/y_ta)
 
 ## Individual Projects
-- [OpenProcessing](https://openprocessing.org/user/389092?view=activity&o=6#topPanel)
+- [p5.js](https://openprocessing.org/user/389092?view=activity&o=6#topPanel)
 
 ## Team Projects
 - [Helplee](https://github.com/balckowl/helplee2)
