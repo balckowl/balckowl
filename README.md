@@ -13,6 +13,12 @@ Nice to meet you.
 - [Qiita](https://qiita.com/y_ta)
 - [Zenn](https://zenn.dev/y_ta)
 
+## Individual Projects
+- [OpenProcessing](https://openprocessing.org/user/389092?view=activity&o=6#topPanel)
+
+## Team Projects
+- []()
+
 ## OSS
 - [first-contributions](https://github.com/firstcontributions/first-contributions/pull/82918)
 
