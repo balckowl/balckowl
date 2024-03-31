@@ -13,11 +13,15 @@ Nice to meet you.
 - [Qiita](https://qiita.com/y_ta)
 - [Zenn](https://zenn.dev/y_ta)
 
-## Solo Projects 🧍
+## Solo Projects🧍
 - [p5.js](https://openprocessing.org/user/389092?view=activity&o=6#topPanel)
+- [nextjs14-tutorial-for-zenn](https://github.com/balckowl/nextjs14-tutorial-for-zenn)
 
 ## Team Projects 👥
 - [Helplee](https://github.com/balckowl/helplee2)
+- [Superwind UI](https://github.com/balckowl/superwindui)
+- [karakuri-web](https://github.com/balckowl/karakuri-web)
+- [KOM-4i](https://github.com/balckowl/KOMA-AI)
 
 ## OSS
 - [first-contributions](https://github.com/firstcontributions/first-contributions/pull/82918)
