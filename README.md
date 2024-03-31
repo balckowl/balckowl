@@ -14,7 +14,7 @@ Nice to meet you.
 - [Zenn](https://zenn.dev/y_ta)
 
 ## Solo Projects🧍
-- [p5.js](https://openprocessing.org/user/389092?view=activity&o=6#topPanel)
+- [mini-game](https://openprocessing.org/user/389092?view=activity&o=6#topPanel)
 - [nextjs14-tutorial-for-zenn](https://github.com/balckowl/nextjs14-tutorial-for-zenn)
 
 ## Team Projects 👥
