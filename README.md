@@ -13,10 +13,10 @@ Nice to meet you.
 - [Qiita](https://qiita.com/y_ta)
 - [Zenn](https://zenn.dev/y_ta)
 
-## Solo Projects🧍
+## Solo Projects 🧍
 - [p5.js](https://openprocessing.org/user/389092?view=activity&o=6#topPanel)
 
-## Team Projects👥
+## Team Projects 👥
 - [Helplee](https://github.com/balckowl/helplee2)
 
 ## OSS
