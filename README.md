@@ -22,6 +22,8 @@ Nice to meet you.
 - [Superwind UI](https://github.com/balckowl/superwindui)
 - [karakuri-web](https://github.com/balckowl/karakuri-web)
 - [KOM-4i](https://github.com/balckowl/KOMA-AI)
+- [sakazuki-LP](https://github.com/balckowl/sakazuki)
+- [portolio](https://github.com/balckowl/portolio)
 
 ## OSS
 - [first-contributions](https://github.com/firstcontributions/first-contributions/pull/82918)
