@@ -15,7 +15,9 @@ Nice to meet you.
 
 ## Solo Projects🧍
 - [mini-game](https://openprocessing.org/user/389092?view=activity&o=6#topPanel)
+- [frontend-type-master](https://github.com/balckowl/frontend-type-master)
 - [nextjs14-tutorial-for-zenn](https://github.com/balckowl/nextjs14-tutorial-for-zenn)
+- [react-firebase-tutorial-for-zenn](https://github.com/balckowl/react-firebase-tutorial-for-zenn)
 
 ## Team Projects 👥
 - [Helplee](https://github.com/balckowl/helplee2)
