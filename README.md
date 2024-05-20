@@ -29,6 +29,7 @@ Nice to meet you.
 - [KOM-4i](https://github.com/balckowl/KOMA-AI)
 - [sakazuki-LP](https://github.com/balckowl/sakazuki)
 - [portolio](https://github.com/balckowl/portolio)
+- [SOZAI]()
 
 ## OSS
 - [first-contributions](https://github.com/firstcontributions/first-contributions/pull/82918)
