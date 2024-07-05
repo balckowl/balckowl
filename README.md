@@ -10,7 +10,7 @@ Nice to meet you.
 
 ## Tech Articles
 - [Blog](https://noticenoting.netlify.app/)
-- [Portolio](https://portolio-zasetu.vercel.app/ldq0AZiPKpXq7t7rSrpPx3xoslL2)
+- [Portolio](https://zasetu-portolio.vercel.app/4bSP93RYe3TliwafjGeMAk8JoS22)
 - [Qiita](https://qiita.com/y_ta)
 - [Zenn](https://zenn.dev/y_ta)
 
