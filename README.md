@@ -13,20 +13,6 @@ Nice to meet you.
 [![Likes](https://badgen.org/img/zenn/y_ta/likes?style=plastic)](https://zenn.dev/y_ta)
 [![Rating](https://badgen.org/img/atcoder/blackowl/rating/algorithm?style=plastic)](https://atcoder.jp/users/blackowl?contestType=algo)
 
-## Tech Articles
-- [Blog](https://noticenoting.netlify.app/)
-- [Portolio](https://zasetu-portolio.vercel.app/4bSP93RYe3TliwafjGeMAk8JoS22)
-- [Qiita](https://qiita.com/y_ta)
-- [Zenn](https://zenn.dev/y_ta)
-
-## Solo Projects🧍
-- [mini-game](https://openprocessing.org/user/389092?view=activity&o=6#topPanel)
-- [typee2](https://github.com/balckowl/typee2)
-- [fes-site-2023](https://github.com/balckowl/fes-site-2023)
-- [frontend-type-master](https://github.com/balckowl/frontend-type-master)
-- [react-firebase-tutorial-for-zenn](https://github.com/balckowl/react-firebase-tutorial-for-zenn)
-- [nextjs14-tutorial-for-zenn](https://github.com/balckowl/nextjs14-tutorial-for-zenn)
-
 ## Team Projects ✊
 
 | 作品名 | 概要 | 使用技術 |
