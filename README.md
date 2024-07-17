@@ -8,6 +8,9 @@ I like the Web and am actively sharing information about React frameworks and li
 
 Nice to meet you.
 
+## Badges 🎓
+[![Likes](https://badgen.org/img/zenn/y_ta/likes?style=plastic)](https://zenn.dev/y_ta)
+
 ## Tech Articles
 - [Blog](https://noticenoting.netlify.app/)
 - [Portolio](https://zasetu-portolio.vercel.app/4bSP93RYe3TliwafjGeMAk8JoS22)
