@@ -9,7 +9,9 @@ I like the Web and am actively sharing information about React frameworks and li
 Nice to meet you.
 
 ## Badges 🎓
+[![Contributions](https://badgen.org/img/qiita/y_ta/contributions?style=plastic)](https://qiita.com/y_ta)
 [![Likes](https://badgen.org/img/zenn/y_ta/likes?style=plastic)](https://zenn.dev/y_ta)
+[![Rating](https://badgen.org/img/atcoder/blackowl/rating/algorithm?style=plastic)](https://atcoder.jp/users/blackowl?contestType=algo)
 
 ## Tech Articles
 - [Blog](https://noticenoting.netlify.app/)
