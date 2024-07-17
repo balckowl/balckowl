@@ -25,6 +25,7 @@ Nice to meet you.
 |    [portolio](https://github.com/balckowl/portolio)          |   失敗・挫折経験を投稿するポートフォリオサイト   | Next.js, TS, Tailwind, Supabase, Firebase, Vercel |
 |    [SOZAI](https://github.com/balckowl/sozai-netlify)        |   AIで生成された画像が並ぶフリー素材サイト　　　　　　　　| Next.js, TS, Tailwind, microCMS |
 |    [type tech](https://github.com/balckowl/typing-game)      |   ITワードでのタイピングゲーム　             | Next.js, TS, Tailwind, Supabase |
+|    [Tips Box](https://github.com/balckowl/tips-box)          |   リポジトリからTipsを生成してくれるアプリ     | Next.js, TS, Tailwind, PostgreSQL, Render |
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,go,php,python,cs&perline=8)](https://skillicons.dev)
