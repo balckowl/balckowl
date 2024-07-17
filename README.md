@@ -27,7 +27,7 @@ Nice to meet you.
 | 作品名 | 概要 | 使用技術 |
 | ------ | ---- | -------- |
 |    [Helplee](https://github.com/balckowl/helplee2)    |  CSSジェネレータサイト  | Next.js, TS, Bootstrap, Firebase, Vercel |
-|    [Superwind UI](https://github.com/balckowl/superwindui)   |   高速で開発を可能にするUIライブラリ   | React, TS, Emotion |
+|    [Superwind](https://github.com/balckowl/superwindui)   |   高速で開発を可能にするUIライブラリ   | React, TS, Emotion |
 |    [karakuri-web](https://github.com/balckowl/karakuri-web)  |   Webの仕組みを利用した新感覚謎解き脱出ゲーム  |  Next.js, TS, Tailwind, Zustand, Vercel |
 |    [KOM-4i](https://github.com/balckowl/KOMA-AI)             |   AIで4コマ漫画を生成するアプリ              | Remix, TS, Hono, Supabase |
 |    [sakazuki-LP](https://github.com/balckowl/sakazuki)       |   キャリア証明書サービスのLP                | Next.js, TS, Tailwind, Vercel |
