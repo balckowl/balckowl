@@ -23,13 +23,17 @@ Nice to meet you.
 - [nextjs14-tutorial-for-zenn](https://github.com/balckowl/nextjs14-tutorial-for-zenn)
 
 ## Team Projects 👥
-- [Helplee](https://github.com/balckowl/helplee2)
-- [Superwind UI](https://github.com/balckowl/superwindui)
-- [karakuri-web](https://github.com/balckowl/karakuri-web)
-- [KOM-4i](https://github.com/balckowl/KOMA-AI)
-- [sakazuki-LP](https://github.com/balckowl/sakazuki)
-- [portolio](https://github.com/balckowl/portolio)
-- [SOZAI]()
+
+| 作品名 | 概要 | 使用技術 |
+| ------ | ---- | -------- |
+|    [Helplee](https://github.com/balckowl/helplee2)    |  CSSジェネレータサイト  | Next.js, TS, Bootstrap, Firebase, Vercel |
+|    [Superwind UI](https://github.com/balckowl/superwindui)   |   高速で開発を可能にするUIライブラリ   | React, TS, Emotion |
+|    [karakuri-web](https://github.com/balckowl/karakuri-web)  |   Webの仕組みを利用した新感覚謎解き脱出ゲーム  |  Next.js, TS, Tailwind, Zustand, Vercel |
+|    [KOM-4i](https://github.com/balckowl/KOMA-AI)             |   AIで4コマ漫画を生成するアプリ              | Remix, TS, Hono, Supabase |
+|    [sakazuki-LP](https://github.com/balckowl/sakazuki)       |   キャリア証明書サービスのLP                | Next.js, TS, Tailwind, Vercel |
+|    [portolio](https://github.com/balckowl/portolio)          |   失敗・挫折経験を投稿するポートフォリオサイト   | Next.js, TS, Tailwind, Supabase, Firebase, Vercel |
+|    [SOZAI](https://github.com/balckowl/sozai-netlify)        |   AIで生成された画像が並ぶフリー素材サイト　　　　　　　　| Next.js, TS, Tailwind, microCMS |
+
 
 ## OSS
 - [first-contributions](https://github.com/firstcontributions/first-contributions/pull/82918)
