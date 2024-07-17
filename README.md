@@ -22,7 +22,7 @@ Nice to meet you.
 - [react-firebase-tutorial-for-zenn](https://github.com/balckowl/react-firebase-tutorial-for-zenn)
 - [nextjs14-tutorial-for-zenn](https://github.com/balckowl/nextjs14-tutorial-for-zenn)
 
-## Team Projects 👥
+## Team Projects ✊
 
 | 作品名 | 概要 | 使用技術 |
 | ------ | ---- | -------- |
