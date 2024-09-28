@@ -28,7 +28,7 @@ Nice to meet you.
 |    [Tips Box](https://github.com/balckowl/tips-box)          |   リポジトリからTipsを生成してくれるアプリ     | Next.js, TS, Tailwind, PostgreSQL, Render |
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,go,php,python,cs&perline=8&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,go,ruby,python,cs&perline=8&theme=light)](https://skillicons.dev)
 
 ## Others
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss,emotion,express,react,svelte,nextjs,nuxt,p5js,supabase,firebase,mongodb,postman,vercel,graphql,apollo,prisma&perline=8&theme=light)](https://skillicons.dev)
