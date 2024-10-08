@@ -20,7 +20,7 @@ Nice to meet you.
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,go,ruby,python,cs&perline=8&theme=light)](https://skillicons.dev)
 
 ## Others
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss,emotion,express,rails,react,svelte,nextjs,nuxt,p5js,supabase,firebase,mongodb,postman,vercel,graphql,apollo,prisma&perline=8&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss,emotion,express,rails,react,svelte,nextjs,nuxt,p5js,postgres,supabase,firebase,mongodb,postman,vercel,graphql,apollo,prisma&perline=8&theme=light)](https://skillicons.dev)
 
 ## Activities
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=balckowl&bg_color=00000000) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=balckowl&bg_color=00000000)
