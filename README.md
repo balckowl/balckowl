@@ -13,7 +13,7 @@ Nice to meet you.
 [![Likes](https://badgen.org/img/zenn/y_ta/likes?style=plastic)](https://zenn.dev/y_ta)
 [![Rating](https://badgen.org/img/atcoder/blackowl/rating/algorithm?style=plastic)](https://atcoder.jp/users/blackowl?contestType=algo)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=balckowl&theme=algolia&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=balckowl&theme=light&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Languages
