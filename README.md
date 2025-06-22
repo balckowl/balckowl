@@ -21,7 +21,7 @@ Nice to meet you.
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,go,ruby,python,cs&perline=8&theme=light)](https://skillicons.dev)
 
 ## Others
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,hono,tailwindcss,authjs,zod,supabase,turso,prisma,drizzle,vercel,netlify&theme=light)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,hono,tailwindcss,authjs,supabase,turso,prisma,drizzle,vercel,netlify&theme=light)](https://skillicons.dev)
 
 ## Activities
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=balckowl&bg_color=00000000) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=balckowl&bg_color=00000000)
